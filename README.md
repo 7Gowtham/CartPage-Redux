@@ -21,4 +21,4 @@ This project demonstrates how to create a cart page utilizing React Redux to man
 4. Reducers contain actions. In this project, the actions `setQuantity`, `deleteProduct`, `setTotals` are defined.
 5. Utilized `useSelector` to extract data from the Redux store state.
 6. Utilized `useDispatch` to create functions that dispatch actions.
-7. Utilized `useState` and `useEffect` to manage quantity and total amount calculations.
+7. Utilized `useEffect` to manage quantity and total amount calculations.
