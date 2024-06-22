@@ -16,7 +16,7 @@ This project demonstrates how to create a cart page utilizing React Redux to man
 
 ### Functionalities Used
 1. Utilized `React Redux` for functionality.
-2. In Redux, a store and a slice are created.
+2. In Redux, a `store` and a `slice` are created.
 3. The slice contains `initialState`, `name`, and `reducers`.
 4. Reducers contain actions. In this project, the actions `setQuantity`, `deleteProduct`, `setTotals` are defined.
 5. Utilized `useSelector` to extract data from the Redux store state.
